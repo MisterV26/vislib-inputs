@@ -1,4 +1,5 @@
 /* add css module styles here (optional) */
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
 
 .test {
   margin: 2em;
