@@ -1,5 +1,4 @@
 /* add css module styles here (optional) */
-@import '../node_modules/bootstrap/dist/css/bootstrap.css';
 
 .test {
   margin: 2em;
@@ -8,3 +7,4 @@
   font-size: 2em;
   text-align: center;
 }
+
